@@ -1,6 +1,6 @@
-﻿# MERN Stack Projects
+﻿# Misc Web Projects
 
-These projects were created to help me solidify my understanding of developing web tech and utilizing the MERN stack.
+This repo will be used to host small stuff I make for the web. Nothing big.
 
 **Project Index**
 
